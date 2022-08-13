@@ -40,3 +40,4 @@ jobs:
         with:
           name: TrMenu Artifact
           path: build/libs/*.jar
+        
